@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/f9b4e031e4b348ceacef74d91801974b/artifacts
+end_time: 1751298662753
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f9b4e031e4b348ceacef74d91801974b
+run_name: resilient-vole-729
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751298329491
+status: 3
+tags: []
+user_id: Kunal
